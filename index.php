@@ -41,8 +41,26 @@
                 </header>
             </div>
         </section>
-        <h1>Fisico Termonuclear</h1>
-        
-    <script src="zenbu.js"></script>
-</body>
+        <section>
+              <?php
+
+//$henloo = array('holi', 5, 'el', 'platzi' );
+
+$pla = 3;
+
+$toon = 9;
+
+
+$etica = $pla + $toon;
+
+//var_dump($henloo);
+
+echo  $etica;
+
+?>
+            <h1>Fisico Termonuclear</h1>
+            
+        <script src="zenbu.js"></script>
+            
+        </section></body>
 </html>
